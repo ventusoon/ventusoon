@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [<img tag="欢迎关注我的公众号" width=300 src=https://github.com/ventusoon/LuvSia/raw/gh-pages/images/LOGO/Logo.gif>](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg2Nzk3MjY3MQ==&scene=117#wechat_redirect)
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ventusoon)](https://github.com/anuraghazra/github-readme-stats)
